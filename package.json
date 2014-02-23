@@ -1,0 +1,22 @@
+{
+  "name": "level-jobqueue",
+  "version": "0.0.0",
+  "description": "Queue and stream jobs with leveldb",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/juul/level-jobqueue.git"
+  },
+  "keywords": [
+    "leveldb",
+    "job",
+    "queue",
+    "stream"
+  ],
+  "author": {
+    "name": "Marc Juul",
+    "email": "juul@sudomesh.org",
+    "url": "https://sudoroom.org/wiki/User:Juul"
+  },
+  "license": "AGPLv3"
+}
